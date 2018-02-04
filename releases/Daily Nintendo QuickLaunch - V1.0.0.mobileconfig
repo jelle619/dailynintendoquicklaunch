@@ -4814,7 +4814,7 @@
 			AAEC+yrw/1jZCnFSRyjnAAAAAElFTkSuQmCC
 			</data>
 			<key>IsRemovable</key>
-			<false/>
+			<true/>
 			<key>Label</key>
 			<string>Daily Nintendo</string>
 			<key>PayloadDescription</key>
